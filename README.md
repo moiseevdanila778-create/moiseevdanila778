@@ -1,6 +1,6 @@
 ### Приветствую 👋, моё имя Данила
 #### я начинающий пользователь гитхаба
-![я начинающий пользователь гитхаба](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![я начинающий пользователь гитхаба](https://arturssmirnovs.github.io/github-profile-readme/images/banner.png)
 
 я создаю игры и делаю проекты типа ММОРПГ
 
