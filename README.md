@@ -1,9 +1,6 @@
-<div class="tenor-gif-embed" data-postid="1818569305436571082" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/cute-wallpaper-aesthetic-art-pixel-art-gif-1818569305436571082"> Cute Wallpaper GIF</a>from <a href="https://tenor.com/search/cute-gifs">Cute GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"> </script>
-
-
 ### Приветствую 👋, моё имя Данила
 #### я начинающий пользователь гитхаба
-![я начинающий пользователь гитхаба] 
+![я начинающий пользователь гитхаба] <div class="tenor-gif-embed" data-postid="8945006362568110621" data-share-method="host" data-aspect-ratio="1.72917" data-width="100%"><a href="https://tenor.com/view/city-skyline-background-aesthetic-anime-gif-8945006362568110621">City Skyline GIF</a>from <a href="https://tenor.com/search/city-gifs">City GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 я создаю игры и делаю проекты типа ММОРПГ
 
 Skills: навыков почти нет но я быстро учусь
